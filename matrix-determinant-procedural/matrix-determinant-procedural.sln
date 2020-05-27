@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrix-determinant-procedural", "matrix-determinant-procedural\matrix-determinant-procedural.vcxproj", "{158B6A7C-A098-4A2E-9BA4-2D1AF4051AE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158B6A7C-A098-4A2E-9BA4-2D1AF4051AE9}.Debug|x64.ActiveCfg = Debug|x64
+		{158B6A7C-A098-4A2E-9BA4-2D1AF4051AE9}.Debug|x64.Build.0 = Debug|x64
+		{158B6A7C-A098-4A2E-9BA4-2D1AF4051AE9}.Debug|x86.ActiveCfg = Debug|Win32
+		{158B6A7C-A098-4A2E-9BA4-2D1AF4051AE9}.Debug|x86.Build.0 = Debug|Win32
+		{158B6A7C-A098-4A2E-9BA4-2D1AF4051AE9}.Release|x64.ActiveCfg = Release|x64
+		{158B6A7C-A098-4A2E-9BA4-2D1AF4051AE9}.Release|x64.Build.0 = Release|x64
+		{158B6A7C-A098-4A2E-9BA4-2D1AF4051AE9}.Release|x86.ActiveCfg = Release|Win32
+		{158B6A7C-A098-4A2E-9BA4-2D1AF4051AE9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F92291D0-A76C-42B1-9968-B4FDEEAF641F}
+	EndGlobalSection
+EndGlobal
